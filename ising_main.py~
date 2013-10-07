@@ -1,7 +1,6 @@
 #!/usr/bin/python
 #Ising Model Simulation
 #Robert Cope 2013
-#Simulates a 2D Ising System
 
 from ising_grid import *
 #from ising_gui import *
